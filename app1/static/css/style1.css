@@ -1,0 +1,64 @@
+body
+{
+    background: plum;
+}
+#maindiv
+{
+    margin: auto;
+    width:998px;
+}
+#header
+{
+    background: brown;
+    height: 180px;
+}
+#menu
+{
+    background: gray;
+    height: 40px;
+}
+#content
+{
+    background: aquamarine;
+    height: 400px;
+}
+#footer
+{
+    background: rgb(196, 145, 145);
+    height: 30px;
+}
+#logo1
+{
+    height: 100px;
+    width: 150px;
+    margin-top: 30;
+    margin-left: 40px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+#logo2
+{
+    height: 130px;
+    float: right;
+}
+#head1
+{
+    color: white;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+}
+a
+{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 60px;
+
+}
+a:hover
+{
+    color: pink;
+}
